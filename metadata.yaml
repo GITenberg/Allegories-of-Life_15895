@@ -1,0 +1,28 @@
+_repo: Allegories-of-Life_15895
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, J. S., Mrs.
+    alias: Adams, Harriet Ada Marr
+    birthdate: 1845
+    deathdate: 1885
+    gutenberg_agent_id: '6364'
+    url: http://www.gutenberg.org/2009/agents/6364
+description: ''
+gutenberg_issued: '2005-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Allegories'
+title: Allegories of Life
+url: http://www.gutenberg.org/ebooks/15895
